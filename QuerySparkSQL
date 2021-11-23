@@ -1,0 +1,11 @@
+
+Questions :
+
+1. Faire la jointure entre moviesAvecRef et Artists pour trouver pour chaque film le nom de son réalisateur et les noms des acteurs (en plus des autresinformations sur le film, comme genre, année, summary et titre)
+2. Supprimer les films dont les résumés ne sont pas rensignés (ont la valeur NULL)
+3. Trouver le nombre de films par genre
+4. Trouver pour chaque acteur le nombre de films qu'il a tournés
+
+
+Answer:
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1812076513163063/2498950142265793/1705383550959678/latest.html?classId=3b3b8e7f-b8d6-4b40-90d7-53147807a5c7&assignmentId=0916e8f2-b31b-47f1-8231-1dd9c1baf1a1&submissionId=81efbb24-b52b-e8af-376f-5e12d9b614cd
